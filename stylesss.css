@@ -1,0 +1,31 @@
+body {
+	color: white;
+    background-color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20pt;
+}
+
+.container {
+  width: 500px;
+  margin: auto;
+  margin-bottom: 20px;
+  border: 4px solid #3D56A6;
+  background-color: black;
+  border-radius: 25px;
+  padding: 10px;
+
+
+}
+
+.containerblue {
+  width: 500px;
+  margin: auto;
+  border-color: #113C9A;
+  margin-bottom: 20px;
+  background-color: #3D56A6;
+  border-radius: 25px;
+  padding: 10px;
+
+}
+
+

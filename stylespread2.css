@@ -1,0 +1,11 @@
+body {
+	color: white;
+    background-color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20pt;
+}
+
+#spread2 {
+	margin-top: 500px;
+	margin-left: 700px;
+}

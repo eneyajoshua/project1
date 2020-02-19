@@ -1,0 +1,47 @@
+body {
+	color: #E95B24;
+    background-color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20pt;
+}
+
+#rect1 {
+	margin-top: -80px;
+	margin-left: 2450px;
+
+}
+
+#rect2 {
+	margin-top:10px;
+	margin-left:2450px;
+}
+
+#rect3 {
+	margin-top:10px;
+	margin-left:2450px;
+}
+
+.spreads {
+	margin-top: -200px;
+	padding: 50px;
+
+}
+
+#spread2 {
+	margin-left: 700px;
+
+} 
+
+#spread3 {
+	margin-left: 1400px;
+}
+
+.box {
+	margin-top: 20px;
+	margin-left: 100px;
+
+}
+
+#hi {
+	padding:20px;
+}

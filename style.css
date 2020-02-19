@@ -1,0 +1,71 @@
+
+body {
+	color: #E95B24;
+    background-color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20pt;
+}
+
+#alberteinstein {
+	margin-top: 150px;
+	animation: move 5s;
+   -webkit-animation: move 5s;
+}
+
+#kathrinehepburn {
+	margin-top: 100px;
+
+	animation: move 5s;
+   -webkit-animation: move 5s;
+
+}
+
+#eleanorroosevelt {
+  margin-top: 150px;
+ \
+  animation: move 5s;
+   -webkit-animation: move 5s;
+
+}
+
+#oprahwinfrey {
+  margin-top: 150px;
+
+  animation: move 5s;
+   -webkit-animation: move 5s;
+
+}
+
+#helenkeller {
+  margin-top: 150px;
+
+  animation: move 5s ;
+   -webkit-animation: move 5s;
+
+}
+
+
+
+@keyframes move {
+  from {
+    margin-left: 600%;
+    width: 600%; 
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+            
+@-webkit-keyframes move {
+  from {
+    margin-left: 100%;
+    width: 300%; 
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}

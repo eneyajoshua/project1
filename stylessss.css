@@ -1,0 +1,26 @@
+body {
+	color: #A558E9;
+    background-color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20pt;
+}
+
+.names {
+	text-align: left;
+
+}
+
+.works {
+	margin-top: -400px;
+	margin-left: 2000px;
+
+}
+
+#jessica {
+	margin-top: -15px;
+}
+
+.verticalLine {    
+	border-left: thick solid #A558E9;
+}
+
